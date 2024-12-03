@@ -1,1 +1,1 @@
-# TesseractOCR---Handwriteen-Tifinagh-Character-Recognition
+# TesseractOCR for Handwritten Tifinagh Character Recognition
